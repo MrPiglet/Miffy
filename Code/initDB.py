@@ -12,7 +12,7 @@ cursor = db.cursor()
 #PIG 使用fetchone()方法获取单条数据
 #data = cursor.fetchone()
 
-print('Database version:', data)
+#print('Database version:', data)
 
 #PIG 创建新的数据库
 #cursor.execute('CREATE DATABASE mifei')
